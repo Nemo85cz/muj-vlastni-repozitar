@@ -1,1 +1,1 @@
-# muj-vlastni-repozitar
+# muj-denik
