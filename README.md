@@ -8,3 +8,4 @@ Pro vyhledávání letenek využívám portál [Skyscanner](https://www.skyscann
 * Rakouské Alpy
 ![Pláž](obrazek2.jpg)
 Ubytování rezervuji přes [Booking.com](https://www.booking.com).
+> **Cestovatelský tip:** Cestujte nalehko a nezapomeňte si zkontrolovat pas!
