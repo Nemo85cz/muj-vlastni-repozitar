@@ -6,4 +6,4 @@ Pro vyhledávání letenek využívám portál [Skyscanner](https://www.skyscann
 * Norsko a skandinávská příroda
 * Řecké ostrovy
 * Rakouské Alpy
-![Pláž](obrazek2)
+![Pláž](obrazek2.jpg)
