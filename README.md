@@ -7,3 +7,4 @@ Pro vyhledávání letenek využívám portál [Skyscanner](https://www.skyscann
 * Řecké ostrovy
 * Rakouské Alpy
 ![Pláž](obrazek2.jpg)
+Ubytování rezervuji přes [Booking.com](https://www.booking.com).
